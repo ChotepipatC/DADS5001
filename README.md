@@ -164,3 +164,6 @@
 ### A1) 
 ### A2) 
 ## Referrence: เอกสารอ้างอิง
+## https://data.go.th/dataset/ipuc
+## https://stat.bora.dopa.go.th/stat/statnew/statMONTH/statmonth/#/mainpage
+## https://hcode.moph.go.th/dashboard/filter/health_offices/
