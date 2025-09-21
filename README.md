@@ -46,7 +46,7 @@
 
 <img width="1038" height="721" alt="image" src="https://github.com/user-attachments/assets/d23c239c-3db8-47ae-900e-2b85d934d2cf" />
 <figcaption>ภาพที่ 2: จำนวนครั้งที่ผู้ป่วยสิทธิหลักประกันสุขภาพรับการรักษาในฐานะผู้ป่วยใน ปีงบประมาณ 2566-2567 </figcaption><br>
-<img width="1382" height="721" alt="image" src="https://github.com/user-attachments/assets/197f7e8e-cfbb-4be9-b458-d2b444733a9e" />
+<img width="1646" height="870" alt="Year trend" src="https://github.com/user-attachments/assets/2aacef23-5ffe-4345-a151-dc8a80cc7df1" />
 <figcaption>ภาพที่ 3: จำนวนครั้งที่ผู้ป่วยสิทธิหลักประกันสุขภาพรับการรักษาในฐานะผู้ป่วยใน จำแนกตามเดือนและปี</figcaption><br>
 &nbsp;&nbsp;&nbsp;&nbsp;ในช่วง 2 ปีงบประมาณล่าสุด จำนวนครั้งที่ผู้ป่วยสิทธิหลักประกันสุขภาพถ้วนหน้ารับการรักษาในฐานะผู้ป่วยใน (IPUC) มีแนวโน้มมากขึ้นตามเวลาอย่างต่อเนื่อง จากภาพที่ 2 แสดงให้เห็นว่าจำนวน IPUC เพิ่มขึ้นจาก 474,452 ครั้ง เมื่อต้นปีงบประมาณ 2566 เป็น 579,853 ครั้ง ในสิ้นปีงบประมาณ 2567 คิดเป็นร้อยละ 22.22 นอกจากนี้ จากภาพที่ 3 ยังพบว่าจำนวน IPUC มีการเคลื่อนไหวเป็นฤดูกาล โดยมีแนวโน้มมีค่าสูงในช่วงไตรมาส 3 ของปี
 <figure> <img width="1152" height="242" alt="image" src="https://github.com/user-attachments/assets/c9d62b95-7bb2-42e8-823a-9bac8daed39b" /><figcaption>ตารางที่ x: จำนวนประชากร ณ สิ้นปีงบประมาณ 2567/ จำนวน IPUC รวม/ อัตราการใช้เตียง IPUC (คั้งต่อเคียง) จำแนกตามภูมิภาค </figcaption></figure><br><br>
