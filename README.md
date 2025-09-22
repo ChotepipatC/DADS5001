@@ -68,10 +68,11 @@
 
 <img width="1118" height="1025" alt="Top5_All" src="https://github.com/user-attachments/assets/fd1f8cb5-e7e6-43df-9b42-4d4d3e2634f9" />
 
-<img width="1227" height="564" alt="PDX Detail" src="https://github.com/user-attachments/assets/577ea6a4-346f-450b-95c7-1b7fdbcc002a" />
+<img width="1651" height="760" alt="PDX Detail" src="https://github.com/user-attachments/assets/06076bce-7258-4018-9f67-bd3405652d81" />
 
 
 ## 3) โรคที่รับการรักษา
+
 
 <img width="1057" height="529" alt="image" src="https://github.com/user-attachments/assets/75fa8394-8888-4d5d-89dc-ce479bf21442" />
 
