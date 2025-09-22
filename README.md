@@ -80,17 +80,11 @@
 <img width="989" height="578" alt="Stack Bar Communicable" src="https://github.com/user-attachments/assets/de077885-f29d-4b5e-9b29-08447433bb3d" />
 <p>
 
-
-### 2.3) 5 อันดับแรกของโรคที่เข้ารักษาพยาบาลในระบบ IPUC ของแต่ละภูมิภาค
-
-<p align="center">
-<img width="1118" height="1025" alt="Top5_All" src="https://github.com/user-attachments/assets/fd1f8cb5-e7e6-43df-9b42-4d4d3e2634f9" />
-<p>
-
 <p align="center">
 <img width="1766" height="536" alt="PDX Detail" src="https://github.com/user-attachments/assets/ca8a9bd3-b80f-481f-a893-b63c83a80f51" />
 <p>
-
+5 อันดับแรกของโรคที่เข้ารักษาพยาบาลในระบบ IPUC ของแต่ละภูมิภาค
+	
 ## 3) โรคที่รับการรักษา
 
 
