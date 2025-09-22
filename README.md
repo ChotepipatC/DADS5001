@@ -65,7 +65,8 @@
 
 
 ### 2.3) 5 อันดับแรกของโรคที่เข้ารักษาพยาบาลในระบบ IPUC ของแต่ละภูมิภาค
-<img width="661" height="638" alt="Edit" src="https://github.com/user-attachments/assets/8a84a14e-f8b9-4f17-903a-a71589fa9273" />
+
+<img width="1118" height="1025" alt="Top5_All" src="https://github.com/user-attachments/assets/fd1f8cb5-e7e6-43df-9b42-4d4d3e2634f9" />
 
 <img width="1227" height="564" alt="PDX Detail" src="https://github.com/user-attachments/assets/577ea6a4-346f-450b-95c7-1b7fdbcc002a" />
 
