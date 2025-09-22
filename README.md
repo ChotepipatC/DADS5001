@@ -88,7 +88,7 @@
 <p>
 
 <p align="center">
-<img width="1651" height="760" alt="PDX Detail" src="https://github.com/user-attachments/assets/06076bce-7258-4018-9f67-bd3405652d81" />
+<img width="1766" height="536" alt="PDX Detail" src="https://github.com/user-attachments/assets/ca8a9bd3-b80f-481f-a893-b63c83a80f51" />
 <p>
 
 ## 3) โรคที่รับการรักษา
