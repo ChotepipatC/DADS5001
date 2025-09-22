@@ -54,6 +54,8 @@
 
 ### 2.2) ภาพรวมการเข้ารักษาพยาบาลในระบบ IPUC ของแต่ละภูมิภาค
 
+<img width="1111" height="526" alt="Pyramid graph" src="https://github.com/user-attachments/assets/089a1fa9-38e0-4f29-8c95-55164a822281" />
+
 <img width="680" height="196" alt="Overall Region" src="https://github.com/user-attachments/assets/045e515f-276d-4c7c-82ea-59ea10aa042a" />
 
 <img width="1003" height="578" alt="Stack Bar ICD10 Focus" src="https://github.com/user-attachments/assets/e1145ac9-006b-42b3-8601-1ea5eeeb434e" />
