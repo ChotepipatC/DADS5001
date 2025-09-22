@@ -54,7 +54,21 @@
 
 ### 2.2) ภาพรวมการเข้ารักษาพยาบาลในระบบ IPUC ของแต่ละภูมิภาค
 
+<img width="680" height="196" alt="Overall Region" src="https://github.com/user-attachments/assets/045e515f-276d-4c7c-82ea-59ea10aa042a" />
+
+<img width="1003" height="578" alt="Stack Bar ICD10 Focus" src="https://github.com/user-attachments/assets/e1145ac9-006b-42b3-8601-1ea5eeeb434e" />
+
+<img width="989" height="578" alt="Stack Bar Preventable" src="https://github.com/user-attachments/assets/6625283a-a777-4572-8be5-910bef7905b9" />
+
+<img width="989" height="578" alt="Stack Bar Communicable" src="https://github.com/user-attachments/assets/de077885-f29d-4b5e-9b29-08447433bb3d" />
+
+
+
 ### 2.3) 5 อันดับแรกของโรคที่เข้ารักษาพยาบาลในระบบ IPUC ของแต่ละภูมิภาค
+<img width="661" height="638" alt="Edit" src="https://github.com/user-attachments/assets/8a84a14e-f8b9-4f17-903a-a71589fa9273" />
+
+<img width="1227" height="564" alt="PDX Detail" src="https://github.com/user-attachments/assets/577ea6a4-346f-450b-95c7-1b7fdbcc002a" />
+
 
 ## 3) โรคที่รับการรักษา
 
