@@ -274,7 +274,12 @@
 * การศึกษาครั้งนี้ไม่สามารถระบุข้อมูลได้ในระดับรายครั้งการรักษา ทำให้ขาดรายละเอียดของข้อมูลในหลายส่วน เช่น ระยะเวลาที่ทำการรักษาในฐานะผู้ป่วยนอกมาก่อนที่จะเป็นผู้ป่วยใน, การส่งต่อการรักษา, ระยะเวลานอนโรงพยาบาลรายครั้ง เป็นต้น รวมทั้งไม่สามารถนำข้อมูลจำนวนผู้ป่วย (n_patient) ในตารางการเข้ารับบริการฯ มาวิเคราะห์เพิ่มเติมได้ เนื่องจากผู้ป่วยที่เข้ารับการรักษาในสถานพยาบาลเดียวกันโรคเดียวกัน เพศเดียวกัน หากรับการรักษาคนละเดือนกัน จะถูกนับซ้ำ ในการศึกษาครั้งถัดไป อาจพิจารณาเพิ่มเติมข้อมูลในส่วนเหล่านี้ เพื่อความครบถ้วนสมบูรณ์มากยิ่งขึ้น
 
 ## Referrence: เอกสารอ้างอิง
-https://data.go.th/dataset/ipuc <br>
-https://hcode.moph.go.th/dashboard/filter/health_offices/ <br>
-https://stat.bora.dopa.go.th/stat/statnew/statMONTH/statmonth/#/mainpage <br>
-https://www.health.gov.za/wp-content/uploads/2021/02/icd10_technical_mzuserguide.pdf  <br>
+<b> ข้อมูลการเข้ารับบริการผู้ป่วยใน(IP) สิทธิหลักประกันสุขภาพแห่งชาติ </b> <br>
+&nbsp;&nbsp;&nbsp;&nbsp; https://data.go.th/dataset/ipuc <br>
+<b> ข้อมูลหน่วยบริการสุขภาพ </b> <br>
+&nbsp;&nbsp;&nbsp;&nbsp; https://hcode.moph.go.th/dashboard/filter/health_offices/ <br>
+<b> ข้อมูลประชากรศาสตร์ </b> <br>
+&nbsp;&nbsp;&nbsp;&nbsp; https://stat.bora.dopa.go.th/stat/statnew/statMONTH/statmonth/#/mainpage <br>
+<b> South African ICD-10 Technical User Guide </b> <br>
+&nbsp;&nbsp;&nbsp;&nbsp; https://www.health.gov.za/wp-content/uploads/2021/02/icd10_technical_mzuserguide.pdf  <br>
+"หลักการของหลักประกันสุขภาพถ้วนหน้า" โดย สปสช., 2566, *เรื่องควรรู้ สิทธิหลักประกันสุขภาพแห่งชาติ*
