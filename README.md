@@ -283,4 +283,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp; https://stat.bora.dopa.go.th/stat/statnew/statMONTH/statmonth/#/mainpage <br>
 <b> South African ICD-10 Technical User Guide </b> <br>
 &nbsp;&nbsp;&nbsp;&nbsp; https://www.health.gov.za/wp-content/uploads/2021/02/icd10_technical_mzuserguide.pdf  <br>
+<b> จำนวนประชากรจำแนกตามสิทธิรักษาพยาบาล </b> <br>
+&nbsp;&nbsp;&nbsp;&nbsp; https://ucinfo.nhso.go.th/ucinfo <br>
 "หลักการของหลักประกันสุขภาพถ้วนหน้า" โดย สปสช., 2566, *เรื่องควรรู้ สิทธิหลักประกันสุขภาพแห่งชาติ*
