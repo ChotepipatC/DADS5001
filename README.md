@@ -58,7 +58,7 @@
 
 ### 2.2) ภาพรวมการเข้ารักษาพยาบาลในระบบ IPUC ของแต่ละภูมิภาค
 <p align="center">
-<img width="1006" height="175" alt="Overall reg" src="https://github.com/user-attachments/assets/1560b265-ac2a-4a87-b5af-30826d81277b" />
+<img width="1327" height="250" alt="image" src="https://github.com/user-attachments/assets/09278ed0-c117-4c94-82fa-f90e3238d554" />
 <br>
 ตารางที่ 2: จำนวนประชากร ณ สิ้นปีงบประมาณ 2567/ จำนวน IPUC รวม/ อัตราการใช้เตียง IPUC (ครั้งต่อเตียง) จำแนกตามภูมิภาค 
 </p>
