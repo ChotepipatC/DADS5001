@@ -24,7 +24,7 @@
 
 ### 1.2) จำนวนผู้มีสิทธิการรักษาพยาบาลจำแนกตามประกันสุขภาพภาครัฐ
 <p><p align="center">
-<img width="1076" height="793" alt="Pie" src="https://github.com/user-attachments/assets/b4a5a481-d602-4424-8c26-088ae812450e" />
+<img width="1498" height="994" alt="pie" src="https://github.com/user-attachments/assets/eb145105-28d9-43c5-a3fd-ed3c607d64df" />
 ภาพที่ 1: จำนวนผู้มีสิทธิการรักษาพยาบาลจำแนกตามประกันสุขภาพภาครัฐ ที่มา:สำนักงานหลักประกันสุขภาพแห่งชาติ
 </p><br>
 &nbsp;&nbsp;&nbsp;&nbsp;ข้อมูลจากสำนักงานหลักประกันสุขภาพแห่งชาติ รายงานว่า ณ สิ้นเดือนกรกฎาคม 2568 มีผู้มีสิทธิหลักประกันสุขภาพแห่งชาติทั้งสิ้น 46.89 ล้านราย คิดเป็นร้อยละ 69.86 จากประชากรทั้งหมด 67.12 ล้านราย<br>
@@ -57,7 +57,7 @@
 
 ### 2.2) ภาพรวมการเข้ารักษาพยาบาลในระบบ IPUC ของแต่ละภูมิภาค
 <p align="center">
-<img width="975" height="282" alt="image" src="https://github.com/user-attachments/assets/c5e850ff-a17f-43ee-b0c3-257cf3721c7c" />
+<img width="1006" height="175" alt="Overall reg" src="https://github.com/user-attachments/assets/1560b265-ac2a-4a87-b5af-30826d81277b" />
 <br>
 ตารางที่ 2: จำนวนประชากร ณ สิ้นปีงบประมาณ 2567/ จำนวน IPUC รวม/ อัตราการใช้เตียง IPUC (ครั้งต่อเตียง) จำแนกตามภูมิภาค 
 </p>
