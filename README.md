@@ -178,8 +178,9 @@
 <p align="center">
  <img width="1785" height="1485" alt="image" src="https://github.com/user-attachments/assets/209404ae-a092-41c0-9dad-f4ba10e01ec0" /> 
 	<br> 
-	ภาพที่ 13: Top 25 จำนวน IPUC รายจังหวัด <br>
-<img width="804" height="490" alt="image" src="https://github.com/user-attachments/assets/1a4d1a39-8430-4ca4-b6fd-5ce6ff4b44e1" />
+	ภาพที่ 13: Top 25 จำนวน IPUC รายจังหวัด 
+<br>
+<img width="808" height="490" alt="image" src="https://github.com/user-attachments/assets/2795384c-19d0-45ff-9537-65e23ea25705" />
 	<br> 
 	ภาพที่ 14: สัดส่วนการรักษาในสถานพยาบาลประเภทต่างๆของจังหวัด Top5 IPUC <br>
 </p>
