@@ -102,7 +102,7 @@
 ### 3.2) โรคที่มีการเข้าใช้สิทธิ IPUC เป็นสัดส่วนมากที่สุด 5 อันดับแรกของแต่ละภูมิภาค
 
 <p align="center">
-<img width="3804" height="1329" alt="PDX_TOP5" src="https://github.com/user-attachments/assets/217cefe3-6bc3-4c11-aa4c-8a704287c88a" />
+<img width="1611" height="311" alt="PDX Detail" src="https://github.com/user-attachments/assets/0c7201fc-5510-4267-9d36-d1f072924ca6" />
 <br>
 ตารางที่ 3: แสดงลำดับที่ เรียงตามจำนวนผู้ป่วยที่เข้ารักษาพยาบาลแบบ IPUC 5 อันดับแรกจากมากไปน้อย ของแต่ละภูมิภาค
 <p>
