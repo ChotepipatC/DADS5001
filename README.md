@@ -286,6 +286,6 @@
 <b> จำนวนประชากรจำแนกตามสิทธิรักษาพยาบาล </b> <br>
 &nbsp;&nbsp;&nbsp;&nbsp; https://ucinfo.nhso.go.th/ucinfo <br>
 <b> สภาพภูมิศาสตร์และการแบ่งภาคของประเทศไทย </b> <br>
-&nbsp;&nbsp;&nbsp;&nbsp; https://tmd.go.th/info/%E0%B8%AA%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A0%E0%B8%A1%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8 <br>
+&nbsp;&nbsp;&nbsp;&nbsp;https://tmd.go.th/info/%E0%B8%AA%E0%B8%A0%E0%B8%B2%E0%B8%9E%E0%B8%A0%E0%B8%A1%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A8 <br>
 สำนักงานหลักประกันสุขภาพแห่งชาติ. (2566). *เรื่องควรรู้ สิทธิหลักประกันสุขภาพแห่งชาติ*. <br>
 &nbsp;&nbsp;&nbsp;&nbsp; https://media.nhso.go.th/ebook/flipbook/179/1/1 <br>
